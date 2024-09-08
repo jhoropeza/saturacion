@@ -1,4 +1,4 @@
-Flask==1.1.2              # Versión de Flask compatible
+flask==1.1.2              # Versión de Flask compatible
 jinja2==2.11.3            # Versión compatible con Flask 1.1.2
 markupsafe==2.0.1         # Versión compatible con Flask y Jinja2
 itsdangerous==2.0.1       # Versión compatible con Flask

@@ -11,7 +11,7 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 # Copiar todos los archivos de la aplicación al contenedor
 COPY . .
 
-# Exponer el puerto 8080
+# Exponer el puerto 80
 EXPOSE 80
 
 # Usar CMD en lugar de ENTRYPOINT para mayor flexibilidad
